@@ -1,0 +1,6 @@
+/target
+/.idea
+/dist
+
+## TAILWINDCSS lib for development
+tailwind.css
